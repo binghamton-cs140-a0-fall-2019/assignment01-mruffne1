@@ -1,4 +1,4 @@
-package assignment01;
+package assignment1;
 /**
  * Class to store information about a personal computer with the
  * basic information stored in an advertisement for a computer.

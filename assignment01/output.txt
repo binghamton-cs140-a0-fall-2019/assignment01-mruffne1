@@ -1,0 +1,166 @@
+TESTS FOR Computer.java:
+comp 1, Intel i7, 16GB Memory, 1.5TB Hard Drive, Price: $1500.00 
+comp 2, Ryzen 5, 16GB Memory, 500GB Hard Drive, Price: $1000.00 
+comp 3, Intel i9, 32GB Memory, 2.0TB Solid State Drive, Price: $1800.00 
+comp 4, Ryzen Threadripper, 32GB Memory, 2.0TB Solid State Drive, Price: $2300.00 
+
+
+
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 1966-05-03, Bronx, NY, USA
+Date and place of birth: 1967-12-25, Binghamton, NY, USA
+Date and place of birth: 2000-06-15, Sacramento, CA, USA
+Date and place of birth: 1966-05-03, Athens, Greece
+Date and place of birth: 2001-05-03, Rome, Italy
+true
+true
+false
+true
+
+
+false
+true
+false
+true
+
+
+false
+false
+false
+true
+
+
+false
+true
+true
+true
+
+
+false
+false
+false
+false
+
+
+false
+false
+false
+false
+
+
+true
+false
+true
+false
+
+
+true
+true
+true
+false
+
+
+false
+false
+false
+false
+
+
+true
+true
+true
+true
+
+
+false
+false
+true
+false
+
+
+false
+false
+false
+false
+
+
+false
+false
+false
+false
+
+
+true
+false
+false
+false
+
+
+false
+false
+false
+false
+
+
+false
+false
+true
+true
+
+
+false
+false
+false
+false
+
+
+false
+false
+false
+false
+
+
+true
+false
+false
+true
+
+
+true
+false
+false
+true
+
+TESTS FOR StreetUSAddress.java:
+6 Stadium Boulevard
+East Setauket, NY 11733
+162 Court St
+Apartment 3C-8
+Binghamton, NY 13902
+
+TESTS FOR Person.java:
+Michael Ruffner (485-87-4874),
+Date and place of birth: 1966-05-03, Bronx, NY, USA
+6 Stadium Boulevard
+East Setauket, NY 11733
+
+TESTS FOR ComputerOwner.java:
+Computer List, Owner: Kimberly Lyman (111-22-3333),
+Date and place of birth: 1967-12-28, Huntington, NY, 11746
+10 Lancaster Lane
+Huntington, NY 11746
+Computers: [comp 1, Intel i7, 16GB Memory, 1.5TB Hard Drive, Price: $1500.00 , comp 2, Ryzen 5, 16GB Memory, 500GB Hard Drive, Price: $1000.00 , comp 3, Intel i9, 32GB Memory, 2.0TB Solid State Drive, Price: $1800.00 , comp 4, Ryzen Threadripper, 32GB Memory, 2.0TB Solid State Drive, Price: $2300.00 ]
+Computer List, Owner: Kimberly Lyman (111-22-3333),
+Date and place of birth: 1967-12-28, Huntington, NY, 11746
+10 Lancaster Lane
+Huntington, NY 11746
+Computers: [comp 3, Intel i9, 32GB Memory, 2.0TB Solid State Drive, Price: $1800.00 , comp 4, Ryzen Threadripper, 32GB Memory, 2.0TB Solid State Drive, Price: $2300.00 ]
+
+TESTS FOR SimpleDate.java:
+true
+false
+true
+false
+true
+false

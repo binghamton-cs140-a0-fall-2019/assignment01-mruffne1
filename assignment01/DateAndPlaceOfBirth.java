@@ -1,4 +1,5 @@
-package assignment01;
+package assignment1;
+
 import java.time.LocalDate;
 /**
  * Class to store a data and place of birth.
@@ -107,9 +108,11 @@ public class DateAndPlaceOfBirth {
 	 */
 	public boolean hasSameBirthDayAs(DateAndPlaceOfBirth other) {
   //TODO complete this method
-  }
+		return dateOfBirth.getDayOfYear() == other.dateOfBirth.getDayOfYear();
+	}
 	@Override
 	public String toString() {
 		return "Date and place of birth: " + dateOfBirth + ", " + placeOfBirth;
 	}	
+	
 }
